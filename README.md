@@ -19,5 +19,5 @@
 - [SQLite Documentation](https://www.sqlite.org/index.html)
 
 ## ERD
-- [dbDiagram](https://dbdiagram.io/d/646e3834dca9fb07c4b36f64)
+- [dbDiagram](https://dbdiagram.io/d/64639076dca9fb07c42f1d62)
 ![Chinook MacLean ERD](Chinook-MacLean-ERD.png)
